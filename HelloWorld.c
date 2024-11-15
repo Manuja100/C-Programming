@@ -2,7 +2,7 @@
 
 int main(){
 
-    print("Learn C\n");
+    printf("Learn C\n");
     printf("Dont be a child");
     return 0;
 }
